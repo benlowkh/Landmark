@@ -3,7 +3,7 @@
 
 Using the MS Bing API, MS Oxford API, and Flickr API to build a better map directions service. 
 
-requires API keys for the 3 services. 
+Requires API keys for the 3 services. 
 
 Screenshot of results below, routing from Circus Circus to Excalibur in Las Vegas.
 
