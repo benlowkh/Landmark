@@ -1,0 +1,46 @@
+/* app.css */
+
+body, html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: black url(https://images.unsplash.com/reserve/fvD9myEgRued3zLne2GS__DSC0033-1.jpg?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1450) no-repeat fixed center center;
+}
+
+.panel {
+    margin-top: 80px;
+    text-align: center;
+    background-color: rgba(242, 242, 242, 0.9);
+    padding: 15px 0px 70px 0px;
+}
+
+.panel h1 {
+    font-size: 3rem;
+}
+
+.panel p {
+    font-size: 1.3rem;
+    padding: 20px 0px;
+}
+
+button {
+    background-color: #FF9900;
+    color: #EEEEEE;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+button:hover {
+    background-color: #D77E22;
+}
+
+.launch-button {
+    margin-top: 25px;
+    padding: 30px;
+}
+
+.search-button {
+    padding: 5px 20px;
+}
